@@ -1,0 +1,21 @@
+k = 1 and k_accuracy = 0.6187
+k = 2 and k_accuracy = 0.5396
+k = 3 and k_accuracy = 0.6187
+k = 4 and k_accuracy = 0.5971
+k = 5 and k_accuracy = 0.6115
+k = 6 and k_accuracy = 0.6115
+k = 7 and k_accuracy = 0.6403
+k = 8 and k_accuracy = 0.6475
+k = 9 and k_accuracy = 0.6619
+k = 10 and k_accuracy = 0.6331
+k = 11 and k_accuracy = 0.6403
+k = 12 and k_accuracy = 0.6259
+k = 13 and k_accuracy = 0.6403
+k = 14 and k_accuracy = 0.6259
+k = 15 and k_accuracy = 0.6403
+k = 16 and k_accuracy = 0.6403
+k = 17 and k_accuracy = 0.6187
+k = 18 and k_accuracy = 0.6187
+k = 19 and k_accuracy = 0.5971
+
+K with the highest accuracy is: 9 The highest accuracy: 0.662
